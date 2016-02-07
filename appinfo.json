@@ -1,0 +1,63 @@
+{
+    "appKeys": {
+        "dummy": 0
+    },
+    "capabilities": [
+        ""
+    ],
+    "companyName": "DongCollective",
+    "enableMultiJS": false,
+    "longName": "Helping_Hand_V1",
+    "projectType": "native",
+    "resources": {
+        "media": [
+            {
+                "file": "images/warning.png",
+                "name": "WARNING",
+                "type": "bitmap"
+            },
+            {
+                "file": "images/tick_white.png",
+                "name": "TICK_WHITE",
+                "type": "bitmap"
+            },
+            {
+                "file": "images/tick_black.png",
+                "name": "TICK_BLACK",
+                "type": "bitmap"
+            },
+            {
+                "file": "images/tick.png",
+                "name": "TICK",
+                "type": "bitmap"
+            },
+            {
+                "file": "images/cross.png",
+                "name": "CROSS",
+                "type": "bitmap"
+            },
+            {
+                "file": "images/confirm.png",
+                "name": "CONFIRM",
+                "type": "bitmap"
+            },
+            {
+                "file": "images/config-required.png",
+                "name": "CONFIG_REQUIRED",
+                "type": "bitmap"
+            }
+        ]
+    },
+    "sdkVersion": "3",
+    "shortName": "Helping Hand",
+    "targetPlatforms": [
+        "aplite",
+        "basalt",
+        "chalk"
+    ],
+    "uuid": "795bb505-ccaf-4a4e-9d1f-766ae1c18c9c",
+    "versionLabel": "1.3",
+    "watchapp": {
+        "watchface": false
+    }
+}
